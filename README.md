@@ -1,5 +1,5 @@
 # Mini-Chess-Engine
-# Beginner Chess Engine using DSA (No AI)
+### Beginner Chess Engine using DSA (No AI)
 
 This is a beginner-friendly command-line chess engine built using Python and the `python-chess` library. It allows a user to play as White against an AI that uses classical Data Structures and Algorithms (DSA) — specifically, the **Minimax algorithm** — to make decisions. This engine does not rely on machine learning or databases; it's entirely based on logic and computation.
 
